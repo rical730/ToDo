@@ -6,5 +6,6 @@ A ToDo app
 
 ## 1 todo list
 用React框架实现todo列表。
+ ![](https://github.com/rical730/ToDo/todos/app/view1.0.png)
 
 

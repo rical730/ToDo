@@ -31,8 +31,8 @@ A ToDo app
 	npm install
 	```	
  * 运行
- 	运行`webpack-dev-server`启动webpack服务器，使用浏览器打开 http://127.0.0.1:8080 或者 localhost:8080 就能看见
- 	支持热编译
+ 	* 运行`webpack-dev-server`启动webpack服务器，使用浏览器打开 http://127.0.0.1:8080 或者 localhost:8080 就能看见
+ 	支持热编译。
 
 
 ## 依赖包
@@ -61,4 +61,4 @@ A ToDo app
  ![](https://github.com/rical730/ToDo/blob/master/todos/view1.0.png)
 
 ## 参考资料
-致谢：[人世间](http://www.jianshu.com/p/715913d3fabc)
+[人世间](http://www.jianshu.com/p/715913d3fabc)
